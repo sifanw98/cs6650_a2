@@ -1,0 +1,6 @@
+com/albumstore/bean/ImageMetaData.class
+com/albumstore/bean/ErrorMsg.class
+com/albumstore/bean/Album.class
+com/albumstore/util/DatabaseUtil.class
+com/albumstore/bean/ApiResponse.class
+com/albumstore/util/JSONUtility.class
